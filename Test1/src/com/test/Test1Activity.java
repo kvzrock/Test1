@@ -8,6 +8,7 @@ public class Test1Activity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        /*change1*/
         setContentView(R.layout.main);
     }
 }
